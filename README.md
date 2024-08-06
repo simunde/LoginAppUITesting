@@ -29,3 +29,10 @@ class MainActivityTest{
     }
 }
 ```
+
+## Screenshots
+
+<img src="images/loginScreen.png" alt="Screenshot 2" width="300"/> <img src="images/correctCredentials.png" alt="Screenshot 2" width="300"/> <img src="images/incorrectCredentials.png" alt="Screenshot 2" width="300"/> 
+
+
+![Organizer Dashboard](images/LoginTest.png)
